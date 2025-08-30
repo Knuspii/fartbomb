@@ -1,0 +1,5 @@
+"Sprite"
+{
+	"$basetexture" "vgui/entities/fart_bomb"
+	"$nolod" 1
+}
