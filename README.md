@@ -3,6 +3,8 @@
 This is a Garry's Mod Addon\
 Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3253335063
 
+![steamusercontent](images.steamusercontent.gif)
+
 Goofy ahh Fart Bomb.\
 Warning: This thing is loud and can be really laggy!\
 This is a really old project of mine.
