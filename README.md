@@ -1,3 +1,6 @@
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3253335063)
+![Steam Favorites](https://img.shields.io/steam/favorites/3253335063)
+
 # Fart Bomb
 
 This is a Garry's Mod Addon\
